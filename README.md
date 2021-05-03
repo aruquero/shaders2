@@ -15,7 +15,7 @@
 
 **Introducción**:
 
-En esta novena entrega hemos vuelto a focalizar nuestros objetivos en los shaders que ofrece processing junto a OPENGL. Para esta ocasión hemos empezado un proyecto desde 0 para ver más posibilidades referentes a esta herramienta.
+En esta decima entrega hemos vuelto a focalizar nuestros objetivos en los shaders que ofrece processing junto a OPENGL. Para esta ocasión hemos empezado un proyecto desde 0 para ver más posibilidades referentes a esta herramienta.
 
 **La aplicación**:
 
