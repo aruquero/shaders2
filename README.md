@@ -27,7 +27,7 @@ Nuestra aplicación se basa en el personaje de animación Mike Wazowski. Este pe
 
 Hemos decidio implementar al característico personaje debido a su gran globo ocular, en el desarrollo de la aplicación esta se fundamentaba en un ojo humano el cual iba a realizar la misma función de parpadeo, o cambiar el ojo de abierto -> cerrado. No obstante, al ver la posiblidad de agregar un poco más de entidad y personalidad a la propuesta, nos vimos en la obligación de agregar este añadido en forma de personaje verde.
 
-![N|Solid](https://i.gyazo.com/fd065fb2195e469f6bb662932fd9b752)
+![N|Solid](https://i.gyazo.com/fd065fb2195e469f6bb662932fd9b752.png)
 
 **Tutorial**
 
@@ -42,4 +42,4 @@ No hemos sido capaces de aislar el color de las extremidades de nuestro personaj
 **Gif sobre el funcionamiento**
 
 
-![Alt Text](https://i.gyazo.com/e1c85024c81267ead8bd09bb875640cd.gif)
+![Alt Text](https://i.gyazo.com/8492e49ef281322daa52be0b55c896be.gif)
